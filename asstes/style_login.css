@@ -1,0 +1,22 @@
+.login{
+    background-color: rgb(230, 23, 8);
+    height: 250px;
+    border-color: black;
+}
+.atas{
+    margin-top: 200px;
+}
+.username{
+    margin-top: 20px;
+}
+.password{
+    margin-top: 20px;
+}
+.btn-login{
+   
+    margin-top: 25px
+}
+.daftar{
+    margin-left: 155px;
+    margin-top: 20px;
+}
